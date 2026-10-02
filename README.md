@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository is a public showcase documenting FlashFlow, a collaborative study platform developed as part of a team based academic project created at University.
+This repository is a public showcase documenting FlashFlow, a collaborative study platform developed as part of a team based academic project  at a University.
 
 The original source repository remains private and is not included here out of respect for team collaboration, repository privacy, and responsible software development practices.
 
